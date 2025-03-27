@@ -32,7 +32,7 @@ At **XyloTech**, we don’t just build software—we craft digital experiences t
 💬 Got a game-changing idea? Let’s turn it into reality!  
 📩 **Email us:** [hello@xylotech.dev](mailto:hello@xylotech.dev)  
 🌐 **Visit us:** [www.xylotech](https://www.xylotech.in)  
-📱 **Follow us:** [LinkedIn]([#](https://www.linkedin.com/in/xylotech/)) | [Twitter](#) | [Instagram](https://www.instagram.com/xylotech.in/)  
+📱 **Follow us:** [LinkedIn]([#](https://www.linkedin.com/company/xylotech1/)) | [Twitter](#) | [Instagram](https://www.instagram.com/xylotech.in/)  
 
 ---
 
