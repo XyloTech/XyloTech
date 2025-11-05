@@ -7,9 +7,9 @@
 At **XyloTech**, we don’t just build software—we craft digital experiences that drive success. Whether you're a startup, enterprise, or tech innovator, our team turns your vision into powerful, scalable solutions. From AI-driven applications to next-gen SaaS platforms, we deliver **performance, innovation, and excellence**
 
 
-**CEO** Harshit Kumar
-**CTO** Taufique Khan
-**CFO** Abhay Thakur
+<p> CEO Harshit Kumar</p>
+<p> CTO Taufique Khan</p>
+<p> CFO Abhay Thakur</p>
 
 
 
