@@ -8,7 +8,7 @@ At **XyloTech**, we don’t just build software—we craft digital experiences t
 
 
 **CEO** Harshit Kumar
-**CTO** Taufique
+**CTO** Taufique Khan
 **CFO** Abhay Thakur
 
 
