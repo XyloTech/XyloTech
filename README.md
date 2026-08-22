@@ -21,7 +21,7 @@
 ### 📈 CONTRIBUTIONS
 
 <p align="center">
-  <img src="https://github.com/users/YOUR_USERNAME/contributions" alt="GitHub Contributions">
+  <img src="https://github.com/users/XyloTech/contributions" alt="GitHub Contributions">
 </p>
 
 ---
