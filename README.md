@@ -73,9 +73,9 @@
 
 ### 📫 How to Reach Me
 - 🌐 Website: [xylotech.in](https://xylotech.in)
-- 📩 Email: harshit@xylotech.in
-- 💼 LinkedIn: [linkedin.com/in/harshit-xylotech](https://linkedin.com/in/harshit-xylotech)
-- 💬 WhatsApp: [+91 8009777385](https://wa.me/918009777385)
+- 📩 Email: harshitkumar2955@gmail.com
+- 💼 LinkedIn: [h4sho](https://linkedin.com/in/h4sho)
+- 💬 WhatsApp: [PH](https://wa.me/918009777385)
 
 ---
 
