@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Harshit</h1>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" />
+</p>
 
 <div align="center">
   <!-- Sun Animation -->
@@ -50,32 +48,37 @@
 ---
 
 ### 🚀 What I'm Working On
-- 🔧 Building client projects under [XyloTech](https://xylotech.in)
-- 🤖 Developing AI-powered apps and digital tools
-- 🌐 Running [VaptLabs](https://vaptlabs.com) – VAPT & cybersecurity services
-- 🖨️ Creating print automation software
+
+* 🔧 Building client projects under [XyloTech](https://xylotech.in)
+* 🤖 Developing AI-powered apps and digital tools
+* 🌐 Running [VaptLabs](https://vaptlabs.com) – VAPT & cybersecurity services
+* 🖨️ Creating print automation software
 
 ### 🌱 Currently Learning
-- Kotlin Multiplatform + Jetpack Compose
-- Firebase, Supabase, and scalable backends
-- Advanced AI/ML integrations
+
+* Kotlin Multiplatform + Jetpack Compose
+* Firebase, Supabase, and scalable backends
+* Advanced AI/ML integrations
 
 ### 🤝 Looking to Collaborate On
-- Startup MVPs, SaaS, and Android apps
-- AI tools and offline-capable mobile apps
+
+* Startup MVPs, SaaS, and Android apps
+* AI tools and offline-capable mobile apps
 
 ### 💬 Ask Me About
-- Freelancing & getting international clients
-- Starting a tech agency at 17
-- Mobile app & full-stack development
+
+* Freelancing & getting international clients
+* Starting a tech agency at 17
+* Mobile app & full-stack development
 
 ---
 
 ### 📫 How to Reach Me
-- 🌐 Website: [xylotech.in](https://xylotech.in)
-- 📩 Email: harshit@xylotech.in
-- 💼 LinkedIn: [linkedin.com/in/harshit-xylotech](https://linkedin.com/in/harshit-xylotech)
-- 💬 WhatsApp: [+91 8009777385](https://wa.me/918009777385)
+
+* 🌐 Website: [xylotech.in](https://xylotech.in)
+* 📩 Email: [harshit@xylotech.in](mailto:harshit@xylotech.in)
+* 💼 LinkedIn: [linkedin.com/in/harshit-xylotech](https://linkedin.com/in/harshit-xylotech)
+* 💬 WhatsApp: [+91 8009777385](https://wa.me/918009777385)
 
 ---
 
