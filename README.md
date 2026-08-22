@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dev%20Power-%F0%9F%94%A5%20Over%209000!-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Pro-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top%20Coder-%F0%9F%8E%93%20Rank%201%20India-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top%20Coder-%F0%9F%8E%93%20Rank%201373%20India-green?style=for-the-badge" />
 </p>
 
 <p align="center">
