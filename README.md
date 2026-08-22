@@ -1,96 +1,162 @@
-<h1 align="center">Hi there 👋, I'm Harshit</h1>
-
-
-
-
-
-
-
-<div align="center">
-  <!-- Sun Animation -->
-  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="100" cy="100" r="30" fill="#FFD700">
-      <animate attributeName="r" values="30;35;30" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <g stroke="#FFD700" stroke-width="4">
-      <line x1="100" y1="10" x2="100" y2="40">
-        <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="5s" repeatCount="indefinite"/>
-      </line>
-      <line x1="100" y1="160" x2="100" y2="190" />
-      <line x1="10" y1="100" x2="40" y2="100" />
-      <line x1="160" y1="100" x2="190" y2="100" />
-      <line x1="30" y1="30" x2="50" y2="50" />
-      <line x1="150" y1="150" x2="170" y2="170" />
-      <line x1="30" y1="170" x2="50" y2="150" />
-      <line x1="150" y1="50" x2="170" y2="30" />
-    </g>
-  </svg>
-</div>
+# 👋 Hey, I'm Harshit
 
 <p align="center">
-  🌞 Tech Entrepreneur | 💻 Full-Stack Developer | 🚀 Founder of <a href="https://xylotech.in" target="_blank"><b>XyloTech</b></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=Tech+Entrepreneur+%7C+Software+Engineer;AI+Builder+%7C+Security+Researcher;Founder+%40+XyloTech;Turning+Ideas+Into+Production+Systems+%F0%9F%9A%80" alt="Typing animation">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev%20Power-%F0%9F%94%A5%20Over%209000!-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Pro-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top%20Coder-%F0%9F%8E%93%20Rank%201%20India-green?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Power-%F0%9F%94%A5%20Over%201M%20LOC-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bug%20Fixer-%F0%9F%94%A9%20Zero%20Bugs%20Allowed-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackerRank-%E2%9A%A1%20Top%201%25%20Worldwide-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20User-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Elite-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars%20Earned-%F0%9F%92%AB%20100K%2B-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clients-%F0%9F%8C%8D%20150%2B%20Countries-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Awards-%F0%9F%8F%86%20Dev%20of%20the%20Century-gold?style=for-the-badge" />
+  <a href="https://xylotech.in">
+    <img src="https://img.shields.io/badge/XyloTech-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="XyloTech">
+  </a>
+  <a href="https://github.com/XyloTech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/h4sho">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
-### 🚀 What I'm Working On
-- 🔧 Building client projects under [XyloTech](https://xylotech.in)
-- 🤖 Developing AI-powered apps and digital tools
-- 🌐 Running [VaptLabs](https://vaptlabs.com) – VAPT & cybersecurity services
-- 🖨️ Creating print automation software
+## ⚡ Who I Am
 
-### 🌱 Currently Learning
-- Kotlin Multiplatform + Jetpack Compose
-- Firebase, Supabase, and scalable backends
-- Advanced AI/ML integrations
+I'm **Harshit**, a developer and entrepreneur building products across:
 
-### 🤝 Looking to Collaborate On
-- Startup MVPs, SaaS, and Android apps
-- AI tools and offline-capable mobile apps
+**AI · Software Engineering · Cybersecurity · SaaS · Cloud · FinTech**
 
-### 💬 Ask Me About
-- Freelancing & getting international clients
-- Starting a tech agency at 17
-- Mobile app & full-stack development
+I like taking ideas from:
+
+`Idea → Architecture → Code → Security → Deployment → Production`
 
 ---
 
-### 📫 How to Reach Me
-- 🌐 Website: [xylotech.in](https://xylotech.in)
-- 📩 Email: harshitkumar2955@gmail.com
-- 💼 LinkedIn: [h4sho](https://linkedin.com/in/h4sho)
-- 💬 WhatsApp: [PH](https://wa.me/918009777385)
+## 🚀 What I'm Building
+
+### 🏢 XyloTech
+
+Technology products and engineering services focused on software, AI, automation and security.
+
+### 💹 Cryptoflow
+
+Trading and market-data infrastructure combining real-time data, automation and intelligent analysis.
+
+### 🤖 AI Systems
+
+LLM integrations, machine learning, neural networks and data-driven applications.
+
+### 🔐 Security Research
+
+Web, API, authentication and application-security research within authorized environments.
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="100" />
-  <h3><strong>I don't commit bugs, I commit dominance 💥</strong></h3>
-</div>
-
----
+## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshit-Xylodev&label=Global%20Eye%20Scans&color=blueviolet&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,go,java&perline=6" alt="Languages">
 </p>
 
 <p align="center">
-  <i>“Your Vision, My Code – Building Impossible Solutions in Record Time 🧠⚙️🚀”</i>  
-  Canva🍭: [Canva](https://xylotech.my.canva.site/) 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,fastapi&perline=6" alt="Frameworks">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,linux&perline=6" alt="Backend and Infrastructure">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,githubactions,nginx&perline=6" alt="AI and DevOps">
+</p>
+
+<p align="center">
+  <code>LLMs</code>
+  <code>Machine Learning</code>
+  <code>Neural Networks</code>
+  <code>APIs</code>
+  <code>Distributed Systems</code>
+  <code>Cloud</code>
+  <code>Security</code>
+</p>
+
+---
+
+## 🔥 Featured Work
+
+| Project                  | Description                          |
+| ------------------------ | ------------------------------------ |
+| 💹 **Cryptoflow**        | Trading & market-data infrastructure |
+| 🏢 **XyloTech**          | Software & technology products       |
+| 🤖 **AI Systems**        | AI/ML & intelligent automation       |
+| 🔐 **Security Research** | Web & API security research          |
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github.com/XyloTech/contributions" alt="GitHub contributions" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/XyloTech?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github" alt="Projects">
+  </a>
+  <a href="https://github.com/XyloTech?tab=followers">
+    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github" alt="Follow">
+  </a>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+AI Engineering       ████████████████████
+Cybersecurity        ███████████████████░
+Distributed Systems  ██████████████████░░
+Cloud Infrastructure █████████████████░░░
+Quantitative Systems ████████████████░░░░
+```
+
+---
+
+## 🤝 Let's Build
+
+I'm interested in collaborating on:
+
+* 🚀 SaaS & startup products
+* 🤖 AI-powered applications
+* 🔐 Security engineering
+* 🌐 Full-stack systems
+* 📱 Mobile & developer tools
+* ☁️ Cloud infrastructure
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://xylotech.in">🌐 Website</a> ·
+  <a href="https://github.com/XyloTech">💻 GitHub</a> ·
+  <a href="https://linkedin.com/in/h4sho">💼 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XyloTech&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+<p align="center">
+
+### ⚡ BUILD → BREAK → LEARN → SECURE → SHIP
+
+<br>
+
+<i>"Your Vision, My Code — Building Impossible Solutions."</i>
+
+<br><br>
+
+<b>Founder @ XyloTech</b>
+
 </p>
