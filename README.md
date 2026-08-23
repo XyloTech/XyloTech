@@ -77,7 +77,7 @@
 
 * 🌐 Website: [xylotech.in](https://xylotech.in)
 * 📩 Email: [harshit@xylotech.in](mailto:harshit@xylotech.in)
-* 💼 LinkedIn: [linkedin.com/in/harshit-xylotech](https://linkedin.com/in/harshit-xylotech)
+* 💼 LinkedIn: [linkedin.com/in/harshit](https://linkedin.com/in/h4sho)
 * 💬 WhatsApp: [+91 8009777385](https://wa.me/918009777385)
 
 ---
