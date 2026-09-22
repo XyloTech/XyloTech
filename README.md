@@ -4,6 +4,8 @@
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" />
 </p>
 
+<iframe src="https://github.com/sponsors/XyloTech/button" title="Sponsor XyloTech" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <div align="center">
   <!-- Sun Animation -->
   <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
