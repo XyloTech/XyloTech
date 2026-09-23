@@ -54,7 +54,6 @@
 
 * 🔧 Building client projects under [XyloTech](https://xylotech.in)
 * 🤖 Developing AI-powered apps and digital tools
-* 🌐 Running [VaptLabs](https://vaptlabs.com) – VAPT & cybersecurity services
 * 🖨️ Creating print automation software
 
 ### 🌱 Currently Learning
