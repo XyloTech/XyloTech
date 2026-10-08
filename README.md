@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" />
 </p>
+![Uploading 20261002_232844.jpg…]()
 
 
 <div align="center">
