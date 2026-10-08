@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Harshit</h1>
 
-<p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" />
-</p>
+
 
 <img width="4000" height="3000" alt="20261002_232844" src="https://github.com/user-attachments/assets/e2464c2b-ae6e-45ee-8440-6661ff337286" />
 
