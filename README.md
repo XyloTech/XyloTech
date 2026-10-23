@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Harshit</h1>
 
-<img width="856" height="620" alt="photo_2026-10-23_07-56-46" src="https://github.com/user-attachments/assets/892704da-7d47-4208-a377-1e7063ebc4ae" />
+
+
+https://github.com/user-attachments/assets/7b2d9d4b-e0fa-4429-8b43-9c86814f45df
+
 
 
 <div align="center">
