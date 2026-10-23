@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshit</h1>
 
-
-
 <img width="856" height="620" alt="photo_2026-10-23_07-56-46" src="https://github.com/user-attachments/assets/892704da-7d47-4208-a377-1e7063ebc4ae" />
 
 
